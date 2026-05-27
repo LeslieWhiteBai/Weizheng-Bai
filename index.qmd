@@ -1,5 +1,5 @@
 ---
-title: "Yujun Lian"
+title: "Weizheng Bai"
 image: images/lianyujun_2025.png
 about:
   id: hero-heading
@@ -18,7 +18,7 @@ about:
       href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
+      href: https://orcid.org/0009-0000-6673-3838
     - icon: brands zhihu
       text: 知乎
       href: https://www.zhihu.com/people/arlionn/
@@ -41,7 +41,7 @@ about:
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+Dr Bai's research interests lie in the field of underground hydrogen storage, with specific applications in salt cavern. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
 
 His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
 
@@ -52,11 +52,8 @@ He is also the founder of the website <https://www.lianxh.cn>, one of the larges
 
 ## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- 2026-Present: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
+- 2022-2025: Ms.C. in Civil and Hydraulic ,University of Chinese Academy of Sciences, China, specializing in Econometrics
+- 2017-2021: Bachelor of Engineering, Shandong University of Science and Technology, China, majoring in Civil Engineering.
 
 :::
