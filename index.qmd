@@ -9,7 +9,7 @@ about:
   links:
     - icon: mailbox
       text: baiweizheng22@mails.ucas.ac.cn
-      href: mailto:arlionn@163.com
+      href: mailto:baiweizheng22@mails.ucas.ac.cn
     - icon: github
       text: arlionn
       href: https://github.com/lianyujun
@@ -35,11 +35,9 @@ about:
 
 ::: {#hero-heading}
 
-Dr Bai's research interests lie in the field of underground hydrogen storage, with specific applications in salt cavern. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+Dr Bai's research interests lie in the field of underground hydrogen storage, with specific applications in salt cavern. He has been actively researching topics such as renewable energy,energy transition, rock mechanics, and geomechanics. 
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
 
 
 
