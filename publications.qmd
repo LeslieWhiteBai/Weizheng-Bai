@@ -7,9 +7,9 @@ editor: visual
 ::: {.callout-note}
 ## Links
 
->- **Google Scholar**: <https://scholar.google.com/citations?user=tlkDP2AAAAAJ>
->- **ORCID**: <https://orcid.org/0000-0002-2011-7535>
->- **ResearchGate:** <https://www.researchgate.net/profile/Yujun-Lian>
+>- **Google Scholar**: <>
+>- **ORCID**: <https://orcid.org/0009-0000-6673-3838>
+>- **ResearchGate:** <https://www.researchgate.net/profile/Weizheng-Bai-2>
 :::
 
 &emsp;
