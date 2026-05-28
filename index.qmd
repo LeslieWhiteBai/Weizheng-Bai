@@ -1,6 +1,6 @@
 ---
 title: "Weizheng Bai"
-image: images/lianyujun_2025.png
+image: C:\Users\16526\Desktop\Weizheng Bai_2024.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,14 +8,14 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
+      text: baiweizheng22@mails.ucas.ac.cn
       href: mailto:arlionn@163.com
     - icon: github
       text: arlionn
       href: https://github.com/lianyujun
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?user=vqyiqNgAAAAJ&hl=zh-CN&oi=ao
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0009-0000-6673-3838
@@ -27,13 +27,7 @@ about:
       href: https://weibo.com/arlionn
     - icon: brands xing
       text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      href: https://www.xiaohongshu.com/user/profile/5e5fb0a70000000001007a88?xsec_token=AB3GLf7TV9coqTZ78EIzCEQmd9ubKKUJRaP2d9uN2umB8%3D&xsec_source=pc_search
     - icon: 📝
       text: CV
       href: CV.pdf  
@@ -47,13 +41,12 @@ His teaching abilities have been highly regarded, as evidenced by his consecutiv
 
 With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
 
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
 
 
 ## Background
 
-- 2026-Present: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2022-2025: Ms.C. in Civil and Hydraulic ,University of Chinese Academy of Sciences, China, specializing in Econometrics
+- 2026-Present: Ph.D in Civil Engineering,University of Chinese Academy of Sciences, China, specializing in Underground Hydrogen Storage.
+- 2022-2025: Ms.C. in Civil and Hydraulic ,University of Chinese Academy of Sciences, China, specializing in Underground Hydrogen Storage.
 - 2017-2021: Bachelor of Engineering, Shandong University of Science and Technology, China, majoring in Civil Engineering.
 
 :::
