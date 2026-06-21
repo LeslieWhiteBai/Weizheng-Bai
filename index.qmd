@@ -1,50 +1,93 @@
 ---
 title: "Weizheng Bai"
-image: C:\Users\16526\Desktop\Weizheng Bai_2024.jpg
+subtitle: "PhD Student in Civil Engineering | Underground Hydrogen Storage"
+image: images/bio-photo.jpg
 about:
-  id: hero-heading
   template: trestles
-  image-width: 12em
+  image-width: 13em
   image-shape: round
   links:
-    - icon: mailbox
-      text: baiweizheng22@mails.ucas.ac.cn
+    - icon: envelope
+      text: Email
       href: mailto:baiweizheng22@mails.ucas.ac.cn
     - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=vqyiqNgAAAAJ&hl=zh-CN&oi=ao
+      text: GitHub
+      href: https://github.com/LeslieWhiteBai
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0009-0000-6673-3838
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/5e5fb0a70000000001007a88?xsec_token=AB3GLf7TV9coqTZ78EIzCEQmd9ubKKUJRaP2d9uN2umB8%3D&xsec_source=pc_search
-    - icon: 📝
+    - icon: person-lines-fill
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Weizheng-Bai-2
+    - icon: file-earmark-person
       text: CV
-      href: CV.pdf  
+      href: https://lesliewhitebai.github.io/Weizheng-Bai/CV.pdf
 ---
 
-::: {#hero-heading}
+I am a researcher in civil and geotechnical engineering at the University of Chinese Academy of Sciences. My work focuses on the safe, large-scale use of underground geological formations for hydrogen and other forms of energy storage. I combine multiphysics simulation, geomechanics, site evaluation, and risk assessment to study how salt caverns can support renewable energy systems.
 
-Dr Bai's research interests lie in the field of underground hydrogen storage, with specific applications in salt cavern. He has been actively researching topics such as renewable energy,energy transition, rock mechanics, and geomechanics. 
+## Research Focus
 
+::: {.research-grid}
+::: {.research-card}
+### Underground hydrogen storage
 
-
-
-
-## Background
-
-- 2026-Present: Ph.D in Civil Engineering,University of Chinese Academy of Sciences, China, specializing in Underground Hydrogen Storage.
-- 2022-2025: Ms.C. in Civil and Hydraulic ,University of Chinese Academy of Sciences, China, specializing in Underground Hydrogen Storage.
-- 2017-2021: Bachelor of Engineering, Shandong University of Science and Technology, China, majoring in Civil Engineering.
-
+Storage capacity, operating performance, and engineering feasibility of salt caverns and other geological structures.
 :::
+
+::: {.research-card}
+### Seepage and leakage safety
+
+Hydrogen transport through surrounding rock, well integrity, containment performance, and leakage risk assessment.
+:::
+
+::: {.research-card}
+### Intelligent underground energy systems
+
+Artificial intelligence and data-driven methods for site screening, suitability evaluation, and operational decision-making.
+:::
+:::
+
+## Selected Publications
+
+1. **Bai, W.**, Shi, X., Yang, C., et al. (2024). Assessment of the potential of salt mines for renewable energy peaking in China. *Energy*, 300, 131577. [DOI](https://doi.org/10.1016/j.energy.2024.131577)
+2. **Bai, W.**, Shi, X., Zhu, S., et al. (2025). Opportunities and challenges of large-scale salt cavern hydrogen storage in China coupled with renewable energy sources. *Clean Energy*, 9(1), 179-196. [DOI](https://doi.org/10.1093/ce/zkae095)
+3. **Bai, W.**, Shi, X., Zhu, S., Wei, X., & Huang, Y. (2025). Leakage risk assessment system for salt cavern hydrogen storage. *Deep Underground Science and Engineering*. [DOI](https://doi.org/10.1002/dug2.70011)
+4. Zhu, S., Shi, X., Yang, C., **Bai, W.**, et al. (2024). Site selection evaluation for salt cavern hydrogen storage in China. *Renewable Energy*, 224, 120143. [DOI](https://doi.org/10.1016/j.renene.2024.120143)
+
+[View all publications](publications.qmd){.btn .btn-primary}
+
+## Research Experience
+
+**National Key R&D Program of China: Applicability and Key Safety Technologies of Geological Hydrogen Storage Facilities**<br>
+*December 2024 - November 2027*
+
+Developing evaluation indices for geological sealing and stability, integrating geological structure, rock properties, chamber geometry, stress fields, formation fluids, and environmental constraints to support favorable-block selection.
+
+**Research and Development of Key Technologies for Underground Hydrogen Storage**<br>
+*January 2023 - December 2024*
+
+Studied hydrogen transport in surrounding rock, established a geological suitability evaluation system, and screened feasible geological sites for underground hydrogen storage in China.
+
+## Education
+
+| Period | Degree and institution |
+|---|---|
+| 2026 - Present | PhD student in Civil Engineering, University of Chinese Academy of Sciences |
+| 2022 - 2025 | MSc in Civil and Hydraulic Engineering, University of Chinese Academy of Sciences, GPA 3.69/4.0 |
+| 2022 - 2023 | Non-degree coursework in Civil and Hydraulic Engineering, Wuhan University |
+| 2017 - 2021 | BEng in Civil Engineering, Shandong University of Science and Technology |
+
+## Skills and Recognition
+
+**Methods and software:** COMSOL Multiphysics, FLAC3D, MATLAB, Origin, Microsoft Office<br>
+**Languages:** Chinese (native), English (IELTS 6.5)
+
+- China National Scholarship, 2024 (top 1%)
+- Outstanding Graduate, University of Chinese Academy of Sciences, 2025
+- Outstanding Student, University of Chinese Academy of Sciences, 2024
+- First-class Award Scholarship, Graduate School of UCAS, 2022-2024
+
+## Academic Service
+
+Reviewer for journals including *Tunnelling and Underground Space Technology*, *Energy*, *Fuel*, *Energy Strategy Reviews*, *Journal of Rock Mechanics and Geotechnical Engineering*, and *Journal of Energy Storage*.

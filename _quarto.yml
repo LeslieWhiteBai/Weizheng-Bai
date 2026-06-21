@@ -1,43 +1,40 @@
 project:
   type: website
   output-dir: docs
-  
+  render:
+    - index.qmd
+    - publications.qmd
+
 website:
-  page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "Weizheng Bai"
+  site-url: "https://lesliewhitebai.github.io/Weizheng-Bai/"
+  repo-url: "https://github.com/LeslieWhiteBai/Weizheng-Bai"
   repo-actions: [edit, issue]
-  
-  page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
-  navbar: 
-    background: "#A9CCE3"
-    search: true
-    right: 
-      - text: "Home"
+  favicon: images/bio-photo.jpg
+  page-navigation: true
+  navbar:
+    background: light
+    pinned: true
+    right:
+      - text: Home
         href: index.qmd
-      - text: "Publications"
+      - text: Publications
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
-      - text: "CV"
+      - text: CV
         href: CV.pdf
+      - icon: github
+        href: "https://github.com/LeslieWhiteBai"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Weizheng Bai"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
-    toc-position: right  # 将目录放置在页面的右侧
-    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
