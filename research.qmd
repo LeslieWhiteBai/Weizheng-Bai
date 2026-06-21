@@ -1,0 +1,65 @@
+---
+title: "Research"
+description: "Research interests and projects of Weizheng Bai"
+---
+
+## Research Interests
+
+My research addresses engineering and safety questions in underground energy storage, with a primary focus on salt cavern hydrogen storage.
+
+- **Underground hydrogen storage:** feasibility, storage capacity, thermodynamic behavior, and operational performance.
+- **Hydrogen seepage and containment:** transport in surrounding rock, leakage pathways, well integrity, and risk assessment.
+- **Geomechanics of salt caverns:** deformation, stability, long-term operation, and the influence of impurities and sediments.
+- **Renewable energy integration:** coupling wind and solar power, electrolysis, hydrogen storage, and grid peaking.
+- **Artificial intelligence:** data-driven site screening, geological suitability evaluation, and operational decision support.
+
+## Current Project
+
+### National Key R&D Program of China
+
+**Applicability and Key Safety Technologies of Geological Hydrogen Storage Facilities**  
+*December 2024 - November 2027*
+
+This project develops methods for evaluating geological sealing and stability. The work integrates geological structure, surrounding-rock properties, chamber geometry, stress-field distribution, formation fluids, and environmental constraints to:
+
+- establish a geological applicability evaluation index system;
+- evaluate sealing and mechanical stability;
+- identify favorable regions and candidate blocks;
+- support safe design and deployment of geological hydrogen storage.
+
+## Completed Project
+
+### Key Technologies for Underground Hydrogen Storage
+
+*January 2023 - December 2024*
+
+The project focused on:
+
+- hydrogen transport patterns in the surrounding rock of underground storage facilities;
+- a suitability assessment system for geological hydrogen storage;
+- compilation and analysis of geological data for prospective storage formations in China;
+- screening of feasible sites for underground hydrogen storage development.
+
+## Methods and Tools
+
+| Area | Experience |
+|---|---|
+| Multiphysics simulation | COMSOL Multiphysics |
+| Geomechanical analysis | FLAC3D |
+| Numerical programming | MATLAB |
+| Data analysis and visualization | Origin |
+| Research communication | Microsoft Office |
+
+## Academic Service
+
+Reviewer for:
+
+- *Tunnelling and Underground Space Technology*
+- *Energy*
+- *Fuel*
+- *Energy Strategy Reviews*
+- *Journal of Rock Mechanics and Geotechnical Engineering*
+- *Journal of Energy Storage*
+- *Sustainable Energy Technologies and Assessments*
+- *Case Studies in Thermal Engineering*
+- *Unconventional Resources*

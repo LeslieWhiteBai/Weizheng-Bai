@@ -1,32 +1,31 @@
 ---
 title: "Publications"
-editor: visual
+description: "Peer-reviewed publications by Weizheng Bai"
 ---
 
+My research covers underground hydrogen storage, salt cavern engineering, renewable energy integration, and geotechnical safety. My name is shown in **bold**; an asterisk indicates the corresponding author as reported in my CV.
 
-::: {.callout-note}
-## Links
+## First-author Publications
 
->- **Google Scholar**: <>
->- **ORCID**: <https://orcid.org/0009-0000-6673-3838>
->- **ResearchGate:** <https://www.researchgate.net/profile/Weizheng-Bai-2>
-:::
+1. **Bai, W.**, Shi, X.*, Yang, C., et al. (2024). Assessment of the potential of salt mines for renewable energy peaking in China. *Energy*, 300, 131577. [DOI](https://doi.org/10.1016/j.energy.2024.131577)
 
-&emsp;
+2. **Bai, W.**, Lu, J., Wang, J., et al. (2024). Numerical simulation study of salt cavern CO2 storage in a power-to-gas system. *Energies*, 17(22), 5786. [DOI](https://doi.org/10.3390/en17225786)
 
-## Journal Papers
+3. **Bai, W.**, Shi, X.*, Zhu, S., et al. (2025). Opportunities and challenges of large-scale salt cavern hydrogen storage in China coupled with renewable energy sources. *Clean Energy*, 9(1), 179-196. [DOI](https://doi.org/10.1093/ce/zkae095)
 
--  
--   **连玉君**, 李鑫. 失去的十年:日本应对广场协议的政策效应研究. **中山大学学报** (社会科学版), 2025 (1): 185-196. [-Link-](https://link.cnki.net/doi/10.13471/j.cnki.jsysusse.2025.01.020), [-PDF-](https://bar.cnki.net/bar/download/order?id=Pmp%2F5es3RB81cmauPwpbvsPMJcfwHgIZAnUyOJG6Kdog%2BHL%2FGFrGhKahW4YGMC%2BS9rApGw1Kn1Osj2RxbQfKvjCe6SDJA%2FE4K5lDg6WoZeh7b5mY%2FmsIpB5E%2FKF94iQVwddxEU3rL3oTHoiWc6PitFK57xT%2B8LhM%2BfEqYWvBGm0igmLMld3nSvbU4a5%2BOkNaUlSU0HSLnl9m7MwOtW%2FIk9GlczRq40icS9q1bpEM6d9lgv7q8C%2BP7FPVW3hwYPcqveGzrp%2B41EH7caBaJ8FVkg%3D%3D)
--   Yan, C., **Lian, Y.**, Xu, X., & Chen, C.-C., Share pledge lending, monetary policy, and shadow banking nexus. 2025, **Pacific-Basin Finance Journal**, Online. [Link](https://doi.org/10.1016/j.pacfin.2025.102772)
--   **Lian, Y.**, J. Wang, M. Huang. Fast or Slow: Unveiling the Speed of Market Leverage Adjustment in China. 2024, **Pacific-Basin Finance Journal**, Online. [Link](https://doi.org/10.1016/j.pacfin.2024.102423), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Lian_2024_PBFJ_proof.pdf)
--   Zhou, K., Guan, Z., & **Lian, Y.** (2024). Carbon mitigation effect of emission trading product: Perspective from intra-industry carbon leakage. **Energy Economics**, 107966, Online. [Link](https://doi.org/10.1016/j.eneco.2024.107966) (rep), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Lian-2024-EE_Preproof.pdf), [Google](https://scholar.google.com/scholar?q=Carbon%20mitigation%20effect%20of%20emission%20trading%20product:%20Perspective%20from%20intra-industry%20carbon%20leakage).
--   Yang, L., Cao, X. J., Wang, Y., **Lian, Y.**, & Guo, Z. (2024). Does metro expansion matter? Metro network enhances metro mode share of commuters living away from stations, but not those near stations. **Travel Behaviour and Society**, 34, 100664. [Link](https://doi.org/10.1016/j.tbs.2023.100664), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Yang_Lian_2024_TBS.pdf).
--   程晓刚, 宋常, **连玉君**, 毕功兵. 创新成功与企业供应链融资\[J\]. **中国软科学**, 2024(2): 113-122.
--   Chen Yongli, **Lian Yujun**\*. Browse and cite Stata manuals easily: the `wwwhelp` command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf). 安装：`ssc install ihelp, replace`
--   **Lian Yujun**, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. **Stata Journal**, 2023, 23(1): 197-229. [-Link-](https://journals.sagepub.com/doi/abs/10.1177/1536867X231162033), [-PDF-](https://file.lianxh.cn/Refs/LianPub/Lian-2023-SJ-sftt-Two-tier-SFA.pdf), [Codes & Data](https://gitee.com/arlionn/sftt), [github](https://github.com/arlionn/sftt). 安装：`net install st0705.pkg, all replace`
--   **连玉君**, 刘畅. 精准问询：来自年报问询和控股股东股权质押的证据, **山西财经大学学报**. 2023, 45(1): 99-114. [-Link-](https://d.wanfangdata.com.cn/periodical/sxcjdxxb202301008).
--   Yang, L., Wang, Y., **Lian, Y.**, Dong, X., Liu, J., Liu, Y., & Wu, Z. (**2022**). Rational planning strategies of urban structure, metro, and car use for reducing transport carbon dioxide emissions in developing cities. **Environment, Development and Sustainability**, 25(7), 6987–7010. [-Link-](https://doi.org/10.1007/s10668-022-02344-0), [-PDF-](https://link.springer.com/content/pdf/10.1007/s10668-022-02344-0.pdf).
--   **连玉君**, 李鑫. 合成控制法中的安慰剂检验改进研究——基于准标准化转换的统计推断. **统计研究**, 2022 (8): 115-128. [Codes](https://gitee.com/arlionn/synthsd), [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/%E8%BF%9E%E7%8E%89%E5%90%9B-%E6%9D%8E%E9%91%AB-2022-%E7%BB%9F%E8%AE%A1%E7%A0%94%E7%A9%B6-%E6%A0%A1%E6%A0%B7-%E9%9D%9E%E6%AD%A3%E5%BC%8F%E7%89%88.pdf)
--   李增福，陈俊杰，**连玉君**(\*)，李铭杰. 经济政策不确定性与企业短债长用, **管理世界**, 2022 (1): 77-89. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/%E6%9D%8E%E5%A2%9E%E7%A6%8F-%E8%BF%9E%E7%8E%89%E5%90%9B-2022-%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C-%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%8E%E4%BC%81%E4%B8%9A%E7%9F%AD%E5%80%BA%E9%95%BF%E7%94%A8.pdf)
--  
+4. **Bai, W.**, Shi, X.*, Zhu, S., Wei, X., & Huang, Y. (2025). Leakage risk assessment system for salt cavern hydrogen storage. *Deep Underground Science and Engineering*, 1-14. [DOI](https://doi.org/10.1002/dug2.70011)
+
+## Co-authored Publications
+
+5. Wei, X., Shi, X.*, Ma, H., **Bai, W.**, et al. (2024). Oil storage and debrining process in insoluble sediment voids for underground salt cavern energy storage: An experimental study. *Geoenergy Science and Engineering*, 243, 213359. [DOI](https://doi.org/10.1016/j.geoen.2024.213359)
+
+6. Wang, J., Li, P., **Bai, W.**, et al. (2024). Mechanical behavior of sediment-type high-impurity salt cavern gas storage during long-term operation. *Energies*, 17(16), 3983. [DOI](https://doi.org/10.3390/en17163983)
+
+7. Zhu, S., Shi, X., Yang, C., **Bai, W.**, et al. (2024). Site selection evaluation for salt cavern hydrogen storage in China. *Renewable Energy*, 224, 120143. [DOI](https://doi.org/10.1016/j.renene.2024.120143)
+
+8. Liu, X., Huang, Y., Shi, X., **Bai, W.**, et al. (2025). Offshore wind power-seawater electrolysis-salt cavern hydrogen storage coupling system: Potential and challenges. *Energies*, 18(1), 169. [DOI](https://doi.org/10.3390/en18010169)
+
+## Profiles
+
+- [ORCID](https://orcid.org/0009-0000-6673-3838)
+- [ResearchGate](https://www.researchgate.net/profile/Weizheng-Bai-2)
