@@ -3,7 +3,9 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - research.qmd
     - publications.qmd
+    - Chinese.qmd
 
 website:
   title: "Weizheng Bai"
@@ -18,8 +20,12 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Research
+        href: research.qmd
       - text: Publications
         href: publications.qmd
+      - text: 中文
+        href: Chinese.qmd
       - text: CV
         href: CV.pdf
       - icon: github
@@ -32,7 +38,8 @@ website:
 format:
   html:
     theme: styles.scss
-    toc: false
+    toc: true
+    toc-depth: 2
     smooth-scroll: true
     link-external-newwindow: true
 

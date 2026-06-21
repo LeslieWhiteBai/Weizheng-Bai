@@ -1,31 +1,94 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "Chinese.html",
+    "href": "Chinese.html",
+    "title": "白炜政",
     "section": "",
-    "text": "My research covers underground hydrogen storage, salt cavern engineering, renewable energy integration, and geotechnical safety. My name is shown in bold; an asterisk indicates the corresponding author as reported in my CV."
+    "text": "白炜政，中国科学院大学土木工程专业博士研究生，研究方向为地下氢储能与盐穴储能工程。研究工作主要关注盐穴储氢的工程可行性、氢气渗流与泄漏风险、围岩稳定性、地质选址评价，以及人工智能在地下能源储存中的应用。\n\n邮箱：baiweizheng22@mails.ucas.ac.cn\nORCID：0009-0000-6673-3838\nResearchGate：Weizheng Bai\nGitHub：LeslieWhiteBai\n简历：下载 PDF"
   },
   {
-    "objectID": "publications.html#first-author-publications",
-    "href": "publications.html#first-author-publications",
-    "title": "Publications",
-    "section": "First-author Publications",
-    "text": "First-author Publications\n\nBai, W., Shi, X., Yang, C., et al. (2024). Assessment of the potential of salt mines for renewable energy peaking in China. Energy*, 300, 131577. DOI\nBai, W., Lu, J., Wang, J., et al. (2024). Numerical simulation study of salt cavern CO2 storage in a power-to-gas system. Energies, 17(22), 5786. DOI\nBai, W., Shi, X., Zhu, S., et al. (2025). Opportunities and challenges of large-scale salt cavern hydrogen storage in China coupled with renewable energy sources. Clean Energy*, 9(1), 179-196. DOI\nBai, W., Shi, X., Zhu, S., Wei, X., & Huang, Y. (2025). Leakage risk assessment system for salt cavern hydrogen storage. Deep Underground Science and Engineering*, 1-14. DOI"
+    "objectID": "Chinese.html#个人简介",
+    "href": "Chinese.html#个人简介",
+    "title": "白炜政",
+    "section": "",
+    "text": "白炜政，中国科学院大学土木工程专业博士研究生，研究方向为地下氢储能与盐穴储能工程。研究工作主要关注盐穴储氢的工程可行性、氢气渗流与泄漏风险、围岩稳定性、地质选址评价，以及人工智能在地下能源储存中的应用。\n\n邮箱：baiweizheng22@mails.ucas.ac.cn\nORCID：0009-0000-6673-3838\nResearchGate：Weizheng Bai\nGitHub：LeslieWhiteBai\n简历：下载 PDF"
   },
   {
-    "objectID": "publications.html#co-authored-publications",
-    "href": "publications.html#co-authored-publications",
-    "title": "Publications",
-    "section": "Co-authored Publications",
-    "text": "Co-authored Publications\n\nWei, X., Shi, X., Ma, H., Bai, W., et al. (2024). Oil storage and debrining process in insoluble sediment voids for underground salt cavern energy storage: An experimental study. Geoenergy Science and Engineering*, 243, 213359. DOI\nWang, J., Li, P., Bai, W., et al. (2024). Mechanical behavior of sediment-type high-impurity salt cavern gas storage during long-term operation. Energies, 17(16), 3983. DOI\nZhu, S., Shi, X., Yang, C., Bai, W., et al. (2024). Site selection evaluation for salt cavern hydrogen storage in China. Renewable Energy, 224, 120143. DOI\nLiu, X., Huang, Y., Shi, X., Bai, W., et al. (2025). Offshore wind power-seawater electrolysis-salt cavern hydrogen storage coupling system: Potential and challenges. Energies, 18(1), 169. DOI"
+    "objectID": "Chinese.html#研究方向",
+    "href": "Chinese.html#研究方向",
+    "title": "白炜政",
+    "section": "研究方向",
+    "text": "研究方向\n\n地下氢储能与盐穴储氢\n氢气在围岩中的渗流与泄漏风险\n盐穴长期稳定性与地质适宜性评价\n可再生能源制氢与地下储氢耦合\n人工智能在地下能源储存中的应用"
   },
   {
-    "objectID": "publications.html#profiles",
-    "href": "publications.html#profiles",
-    "title": "Publications",
-    "section": "Profiles",
-    "text": "Profiles\n\nORCID\nResearchGate"
+    "objectID": "Chinese.html#教育经历",
+    "href": "Chinese.html#教育经历",
+    "title": "白炜政",
+    "section": "教育经历",
+    "text": "教育经历\n\n\n\n时间\n经历\n\n\n\n\n2026年至今\n中国科学院大学，土木工程，博士研究生\n\n\n2022-2025\n中国科学院大学，土木水利，硕士，GPA 3.69/4.0\n\n\n2022-2023\n武汉大学，土木水利，非学位课程学习\n\n\n2017-2021\n山东科技大学，土木工程，工学学士"
+  },
+  {
+    "objectID": "Chinese.html#代表性论文",
+    "href": "Chinese.html#代表性论文",
+    "title": "白炜政",
+    "section": "代表性论文",
+    "text": "代表性论文\n\nBai, W., Shi, X., Yang, C., et al. Assessment of the potential of salt mines for renewable energy peaking in China. Energy, 2024, 300: 131577. DOI\nBai, W., Shi, X., Zhu, S., et al. Opportunities and challenges of large-scale salt cavern hydrogen storage in China coupled with renewable energy sources. Clean Energy, 2025, 9(1): 179-196. DOI\nBai, W., Shi, X., Zhu, S., Wei, X., Huang, Y. Leakage risk assessment system for salt cavern hydrogen storage. Deep Underground Science and Engineering, 2025. DOI\nZhu, S., Shi, X., Yang, C., Bai, W., et al. Site selection evaluation for salt cavern hydrogen storage in China. Renewable Energy, 2024, 224: 120143. DOI\n\n查看全部论文"
+  },
+  {
+    "objectID": "Chinese.html#科研项目",
+    "href": "Chinese.html#科研项目",
+    "title": "白炜政",
+    "section": "科研项目",
+    "text": "科研项目\n\n国家重点研发计划\n地质储氢设施适用性与关键安全技术，2024年12月-2027年11月。\n围绕地质体密封性与稳定性评价，综合地质构造、围岩性质、储腔形态、应力场、地层流体和周边环境等数据，研究地质储氢适用性评价与有利区块优选方法。\n\n\n地下氢储能关键技术研究\n2023年1月-2024年12月。\n研究氢气在地下储氢围岩中的运移规律，建立地质条件适宜性评价体系，并整理中国潜在储氢地质体资料，筛选地下氢储能可行场址。"
+  },
+  {
+    "objectID": "Chinese.html#荣誉奖励",
+    "href": "Chinese.html#荣誉奖励",
+    "title": "白炜政",
+    "section": "荣誉奖励",
+    "text": "荣誉奖励\n\n国家奖学金，2024年（前1%）\n中国科学院大学优秀毕业生，2025年\n中国科学院大学优秀学生，2024年\n中国科学院大学研究生院一等奖学金，2022-2024年\n全国大学生数学竞赛三等奖，2020年\n全国大学生英语竞赛一等奖，2019年"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research addresses engineering and safety questions in underground energy storage, with a primary focus on salt cavern hydrogen storage.\n\nUnderground hydrogen storage: feasibility, storage capacity, thermodynamic behavior, and operational performance.\nHydrogen seepage and containment: transport in surrounding rock, leakage pathways, well integrity, and risk assessment.\nGeomechanics of salt caverns: deformation, stability, long-term operation, and the influence of impurities and sediments.\nRenewable energy integration: coupling wind and solar power, electrolysis, hydrogen storage, and grid peaking.\nArtificial intelligence: data-driven site screening, geological suitability evaluation, and operational decision support."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research addresses engineering and safety questions in underground energy storage, with a primary focus on salt cavern hydrogen storage.\n\nUnderground hydrogen storage: feasibility, storage capacity, thermodynamic behavior, and operational performance.\nHydrogen seepage and containment: transport in surrounding rock, leakage pathways, well integrity, and risk assessment.\nGeomechanics of salt caverns: deformation, stability, long-term operation, and the influence of impurities and sediments.\nRenewable energy integration: coupling wind and solar power, electrolysis, hydrogen storage, and grid peaking.\nArtificial intelligence: data-driven site screening, geological suitability evaluation, and operational decision support."
+  },
+  {
+    "objectID": "research.html#current-project",
+    "href": "research.html#current-project",
+    "title": "Research",
+    "section": "Current Project",
+    "text": "Current Project\n\nNational Key R&D Program of China\nApplicability and Key Safety Technologies of Geological Hydrogen Storage Facilities\nDecember 2024 - November 2027\nThis project develops methods for evaluating geological sealing and stability. The work integrates geological structure, surrounding-rock properties, chamber geometry, stress-field distribution, formation fluids, and environmental constraints to:\n\nestablish a geological applicability evaluation index system;\nevaluate sealing and mechanical stability;\nidentify favorable regions and candidate blocks;\nsupport safe design and deployment of geological hydrogen storage."
+  },
+  {
+    "objectID": "research.html#completed-project",
+    "href": "research.html#completed-project",
+    "title": "Research",
+    "section": "Completed Project",
+    "text": "Completed Project\n\nKey Technologies for Underground Hydrogen Storage\nJanuary 2023 - December 2024\nThe project focused on:\n\nhydrogen transport patterns in the surrounding rock of underground storage facilities;\na suitability assessment system for geological hydrogen storage;\ncompilation and analysis of geological data for prospective storage formations in China;\nscreening of feasible sites for underground hydrogen storage development."
+  },
+  {
+    "objectID": "research.html#methods-and-tools",
+    "href": "research.html#methods-and-tools",
+    "title": "Research",
+    "section": "Methods and Tools",
+    "text": "Methods and Tools\n\n\n\nArea\nExperience\n\n\n\n\nMultiphysics simulation\nCOMSOL Multiphysics\n\n\nGeomechanical analysis\nFLAC3D\n\n\nNumerical programming\nMATLAB\n\n\nData analysis and visualization\nOrigin\n\n\nResearch communication\nMicrosoft Office"
+  },
+  {
+    "objectID": "research.html#academic-service",
+    "href": "research.html#academic-service",
+    "title": "Research",
+    "section": "Academic Service",
+    "text": "Academic Service\nReviewer for:\n\nTunnelling and Underground Space Technology\nEnergy\nFuel\nEnergy Strategy Reviews\nJournal of Rock Mechanics and Geotechnical Engineering\nJournal of Energy Storage\nSustainable Energy Technologies and Assessments\nCase Studies in Thermal Engineering\nUnconventional Resources"
   },
   {
     "objectID": "index.html",
@@ -75,5 +138,33 @@
     "title": "Weizheng Bai",
     "section": "Academic Service",
     "text": "Academic Service\nReviewer for journals including Tunnelling and Underground Space Technology, Energy, Fuel, Energy Strategy Reviews, Journal of Rock Mechanics and Geotechnical Engineering, and Journal of Energy Storage."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My research covers underground hydrogen storage, salt cavern engineering, renewable energy integration, and geotechnical safety. My name is shown in bold; an asterisk indicates the corresponding author as reported in my CV."
+  },
+  {
+    "objectID": "publications.html#first-author-publications",
+    "href": "publications.html#first-author-publications",
+    "title": "Publications",
+    "section": "First-author Publications",
+    "text": "First-author Publications\n\nBai, W., Shi, X., Yang, C., et al. (2024). Assessment of the potential of salt mines for renewable energy peaking in China. Energy*, 300, 131577. DOI\nBai, W., Lu, J., Wang, J., et al. (2024). Numerical simulation study of salt cavern CO2 storage in a power-to-gas system. Energies, 17(22), 5786. DOI\nBai, W., Shi, X., Zhu, S., et al. (2025). Opportunities and challenges of large-scale salt cavern hydrogen storage in China coupled with renewable energy sources. Clean Energy*, 9(1), 179-196. DOI\nBai, W., Shi, X., Zhu, S., Wei, X., & Huang, Y. (2025). Leakage risk assessment system for salt cavern hydrogen storage. Deep Underground Science and Engineering*, 1-14. DOI"
+  },
+  {
+    "objectID": "publications.html#co-authored-publications",
+    "href": "publications.html#co-authored-publications",
+    "title": "Publications",
+    "section": "Co-authored Publications",
+    "text": "Co-authored Publications\n\nWei, X., Shi, X., Ma, H., Bai, W., et al. (2024). Oil storage and debrining process in insoluble sediment voids for underground salt cavern energy storage: An experimental study. Geoenergy Science and Engineering*, 243, 213359. DOI\nWang, J., Li, P., Bai, W., et al. (2024). Mechanical behavior of sediment-type high-impurity salt cavern gas storage during long-term operation. Energies, 17(16), 3983. DOI\nZhu, S., Shi, X., Yang, C., Bai, W., et al. (2024). Site selection evaluation for salt cavern hydrogen storage in China. Renewable Energy, 224, 120143. DOI\nLiu, X., Huang, Y., Shi, X., Bai, W., et al. (2025). Offshore wind power-seawater electrolysis-salt cavern hydrogen storage coupling system: Potential and challenges. Energies, 18(1), 169. DOI"
+  },
+  {
+    "objectID": "publications.html#profiles",
+    "href": "publications.html#profiles",
+    "title": "Publications",
+    "section": "Profiles",
+    "text": "Profiles\n\nORCID\nResearchGate"
   }
 ]
