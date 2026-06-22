@@ -1,12 +1,14 @@
 /*-- scss:defaults --*/
 
-$body-bg: #ffffff;
-$body-color: #17212b;
-$headings-color: #102f2b;
-$link-color: #0b6b61;
-$navbar-bg: #ffffff;
-$navbar-fg: #17212b;
-$primary: #0b6b61;
+$body-bg: #fbfdfb;
+$body-color: #25342a;
+$headings-color: #274d30;
+$link-color: #355e3b;
+$link-hover-color: #203f27;
+$navbar-bg: #355e3b;
+$navbar-fg: #f7f9f7;
+$navbar-hl: #ffffff;
+$primary: #355e3b;
 $font-family-sans-serif: "Segoe UI", Arial, sans-serif;
 $headings-font-family: Georgia, "Times New Roman", serif;
 $border-radius: 6px;
@@ -19,8 +21,23 @@ body {
 }
 
 .navbar {
-  border-bottom: 1px solid #dce5e3;
-  box-shadow: 0 2px 8px rgba(16, 47, 43, 0.05);
+  border-bottom: 1px solid #294b30;
+  box-shadow: 0 2px 10px rgba(25, 54, 31, 0.18);
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .navbar-title,
+.navbar .quarto-navbar-tools .quarto-navigation-tool {
+  color: #f7f9f7;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active,
+.navbar .navbar-brand:hover,
+.navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
+  color: #ffffff;
 }
 
 .navbar-title {
@@ -35,7 +52,7 @@ h1, h2, h3 {
 h2 {
   margin-top: 2.8rem;
   padding-bottom: 0.45rem;
-  border-bottom: 2px solid #dce5e3;
+  border-bottom: 2px solid #bfd1c2;
 }
 
 a {
@@ -44,7 +61,16 @@ a {
 
 .about-entity .about-link {
   border-radius: 5px;
-  border-color: #a7bfbb;
+  border-color: #8eaa93;
+  color: #355e3b;
+  background: #ffffff;
+}
+
+.about-entity .about-link:hover,
+.about-entity .about-link:focus {
+  border-color: #355e3b;
+  color: #203f27;
+  background: #edf4ee;
 }
 
 .about-entity .about-image {
@@ -65,17 +91,17 @@ a {
 }
 
 .research-card {
-  border: 1px solid #d6e2df;
-  border-top: 4px solid #0b6b61;
+  border: 1px solid #c8d8cb;
+  border-top: 4px solid #355e3b;
   border-radius: 6px;
   padding: 1rem 1.05rem;
-  background: #f7faf9;
+  background: #f3f8f3;
 }
 
 .research-card h3 {
   margin-top: 0;
   margin-bottom: 0.65rem;
-  color: #0b574f;
+  color: #2d5634;
   font-family: "Segoe UI", Arial, sans-serif;
   font-size: 1.08rem;
   font-weight: 650;
@@ -84,14 +110,29 @@ a {
 
 .btn-primary {
   border-radius: 5px;
+  border-color: #355e3b;
+  background-color: #355e3b;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  border-color: #203f27;
+  background-color: #203f27;
 }
 
 table {
   font-size: 0.96rem;
 }
 
+table thead {
+  color: #274d30;
+  background: #edf4ee;
+}
+
 .page-footer {
-  border-top: 1px solid #dce5e3;
+  border-top: 1px solid #bfd1c2;
+  color: #355e3b;
+  background: #f3f8f3;
 }
 
 @media (max-width: 768px) {
@@ -101,5 +142,9 @@ table {
 
   .about-entity .about-image {
     max-width: 10rem;
+  }
+
+  .navbar-collapse {
+    background: #355e3b;
   }
 }
