@@ -35,19 +35,19 @@ I am a researcher in civil and geotechnical engineering at the University of Chi
 
 ::: {.research-grid}
 ::: {.research-card}
-### Underground Hydrogen Storage
+### Underground hydrogen storage
 
 Storage capacity, operating performance, and engineering feasibility of salt caverns and other geological structures.
 :::
 
 ::: {.research-card}
-### Hydrogen Seepage & Safety
+### Hydrogen leakage & safety
 
 Hydrogen transport through surrounding rock, well integrity, containment performance, and leakage risk assessment.
 :::
 
 ::: {.research-card}
-### Intelligent Energy Storage
+### Intelligent energy storage
 
 Artificial intelligence and data-driven methods for site screening, suitability evaluation, and operational decision-making.
 :::
@@ -78,7 +78,7 @@ Studied hydrogen transport in surrounding rock, established a geological suitabi
 
 | Period | Degree and institution |
 |---|---|
-| 2026 - Present | PhD student in Civil Engineering, University of Chinese Academy of Sciences |
+| 2026 - Present | PhD student in Structures and Materials, Ineris - Institut national de l'environnement industriel et des risques，France |
 | 2022 - 2025 | MSc in Civil and Hydraulic Engineering, University of Chinese Academy of Sciences, GPA 3.69/4.0 |
 | 2022 - 2023 | Non-degree coursework in Civil and Hydraulic Engineering, Wuhan University |
 | 2017 - 2021 | BEng in Civil Engineering, Shandong University of Science and Technology |
