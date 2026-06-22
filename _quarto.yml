@@ -8,7 +8,7 @@ project:
     - Chinese.qmd
 
 website:
-  title: "Weizheng Bai"
+  title: "Weizheng Bai（白炜政）"
   site-url: "https://lesliewhitebai.github.io/Weizheng-Bai/"
   repo-url: "https://github.com/LeslieWhiteBai/Weizheng-Bai"
   repo-actions: [edit, issue]

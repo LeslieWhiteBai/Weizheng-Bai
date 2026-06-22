@@ -1,5 +1,5 @@
 ---
-title: "Weizheng Bai"
+title: "Weizheng Bai（白炜政）"
 subtitle: "PhD Student in Civil Engineering | Underground Hydrogen Storage"
 image: C:\Users\16526\Desktop\Weizheng Bai_2024
 about:
