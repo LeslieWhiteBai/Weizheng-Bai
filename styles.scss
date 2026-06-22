@@ -47,6 +47,11 @@ a {
   border-color: #a7bfbb;
 }
 
+.about-entity .about-image {
+  object-fit: cover;
+  object-position: 74% center;
+}
+
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
