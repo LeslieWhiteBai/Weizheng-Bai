@@ -30,19 +30,19 @@ I am a researcher in civil and geotechnical engineering at the University of Chi
 
 ::: {.research-grid}
 ::: {.research-card}
-### Underground hydrogen storage
+### Underground Hydrogen Storage
 
 Storage capacity, operating performance, and engineering feasibility of salt caverns and other geological structures.
 :::
 
 ::: {.research-card}
-### Seepage and leakage safety
+### Hydrogen Seepage & Safety
 
 Hydrogen transport through surrounding rock, well integrity, containment performance, and leakage risk assessment.
 :::
 
 ::: {.research-card}
-### Intelligent underground energy systems
+### Intelligent Energy Storage
 
 Artificial intelligence and data-driven methods for site screening, suitability evaluation, and operational decision-making.
 :::
