@@ -29,7 +29,7 @@ about:
       href: https://lesliewhitebai.github.io/Weizheng-Bai/CV-Weizheng%20Bai.pdf
 ---
 
-I am a researcher in civil and geotechnical engineering at the University of Chinese Academy of Sciences. My work focuses on the safe, large-scale use of underground geological formations for hydrogen and other forms of energy storage. I combine multiphysics simulation, geomechanics, site evaluation, and risk assessment to study how salt caverns can support renewable energy systems.
+I am a researcher in civil and geotechnical engineering at the Ineris - Institut national de l'environnement industriel et des risques. My work focuses on the safe, large-scale use of underground geological formations for hydrogen and other forms of energy storage. I combine multiphysics simulation, geomechanics, site evaluation, and risk assessment to study how salt caverns can support renewable energy systems.
 
 ## Research Focus
 
