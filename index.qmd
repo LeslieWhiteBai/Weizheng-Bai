@@ -29,7 +29,7 @@ about:
       href: https://lesliewhitebai.github.io/Weizheng-Bai/CV-Weizheng%20Bai.pdf
 ---
 
-I am a researcher in civil and geotechnical engineering at the Ineris - Institut national de l'environnement industriel et des risques. My work focuses on the safe, large-scale use of underground geological formations for hydrogen and other forms of energy storage. I combine multiphysics simulation, geomechanics, site evaluation, and risk assessment to study how salt caverns can support renewable energy systems.
+I am pursuing a PhD in Structures and Materials at INERIS (Institut National de l'Environnement Industriel et des Risques) and Université Gustave Eiffel, France, specializing in Underground Hydrogen Storage.
 
 ## Research Focus
 
@@ -78,7 +78,7 @@ Studied hydrogen transport in surrounding rock, established a geological suitabi
 
 | Period | Degree and institution |
 |---|---|
-| 2026 - Present | PhD student in Structures and Materials, Ineris - Institut national de l'environnement industriel et des risques，France |
+| 2026 - Present | Ph.D. in Structures and Materials, INERIS/Université Gustave Eiffel, France, specializing in Underground Hydrogen Storage. |
 | 2022 - 2025 | MSc in Civil and Hydraulic Engineering, University of Chinese Academy of Sciences, GPA 3.69/4.0 |
 | 2022 - 2023 | Non-degree coursework in Civil and Hydraulic Engineering, Wuhan University |
 | 2017 - 2021 | BEng in Civil Engineering, Shandong University of Science and Technology |
