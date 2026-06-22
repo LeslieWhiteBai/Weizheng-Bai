@@ -52,6 +52,11 @@ a {
   object-position: 74% center;
 }
 
+.quarto-about-trestles #title-block-header .description,
+.quarto-about-trestles #title-block-header .keywords {
+  display: none;
+}
+
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

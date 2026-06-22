@@ -1,7 +1,9 @@
 ---
 title: "Weizheng Bai（白炜政）"
 subtitle: "PhD Student in Civil Engineering | Underground Hydrogen Storage"
-image: C:\Users\16526\Desktop\Weizheng Bai_2024
+description: "Weizheng Bai（白炜政） researches underground hydrogen storage, salt cavern geomechanics, hydrogen seepage, leakage safety, and intelligent energy storage."
+keywords: [Weizheng Bai, 白炜政, underground hydrogen storage, salt cavern, geomechanics, hydrogen seepage, energy storage]
+image: images/bio-photo.jpg
 about:
   template: trestles
   image-width: 13em
