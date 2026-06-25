@@ -29,7 +29,7 @@ about:
       href: https://lesliewhitebai.github.io/Weizheng-Bai/CV-Weizheng%20Bai.pdf
 ---
 
-I am pursuing a PhD in Structures and Materials at INERIS (Institut National de l'Environnement Industriel et des Risques) and Université Gustave Eiffel, France, specializing in Underground Hydrogen Storage.
+I am pursuing a PhD in Structures and Materials at PhD Student at INERIS(Institut National de l'Environnement Industriel et des Risques) & Navier Lab（Université Gustave Eiffel）, France, specializing in Underground Hydrogen Storage.
 
 ## Research Focus
 
